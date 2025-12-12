@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently a first-year Master's student in **Artificial Intelligence and Machine Learning** at the Technical University of Denmark (DTU) 🇩🇰. I am pursuing this degree as part of a double degree program in General Engineering with Centrale Lyon (France 🇫🇷).
+I am currently a first-year Master's student in **Artificial Intelligence and Machine Learning** at the Technical University of Denmark 🇩🇰 (DTU). I am pursuing this degree as part of a double degree program in General Engineering with Centrale Lyon (France 🇫🇷).
 
 My specialization focuses on Machine Learning, Deep Learning, Social Graphs, and Computational Tools for Data Science. I am currently seeking a student job to gain practical experience.
 
