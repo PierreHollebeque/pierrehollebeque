@@ -52,5 +52,5 @@ I recently worked as a **Generative AI Intern** at **NIJI**, where I designed an
 
 ## Contact Me
 
-* Email: pierre.hollebeque@gmail.com
+* Email: s254136@student.dtu.dk
 * LinkedIn: [linkedin.com/in/pierre-hollebèque](https://www.linkedin.com/in/pierre-holleb%C3%A8que-585550299/)
