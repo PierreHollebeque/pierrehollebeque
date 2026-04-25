@@ -4,7 +4,7 @@
 
 I am currently a first-year Master's student in **Artificial Intelligence and Machine Learning** at the Technical University of Denmark 🇩🇰 (DTU). I am pursuing this degree as part of a double degree program in General Engineering with Centrale Lyon (France 🇫🇷).
 
-My specialization focuses on Machine Learning, Deep Learning, Social Graphs, and Computational Tools for Data Science. I am currently seeking a student job to gain practical experience.
+My specialization focuses on Machine Learning, Deep Learning, Social Graphs, Bayesian Machine Learning, Multiagents systems, Python HPC and Algorithms for massive datasets. I am currently seeking a student job to gain practical experience.
 
 * Location: Copenhagen - Lyngby
 * Education: MSc Human-Centered AI (DTU) & General Engineer (Centrale Lyon)
